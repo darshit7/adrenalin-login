@@ -14,13 +14,14 @@ We assume that you have installed pip using `sudo apt-get install python-pip` co
 
 ##### 2. Create virtualenv in `/opt/myvirtual/` folder and install all required packages
   Execute following commands to create virtual environment named `testenv` with all required packages.
-            $ pip install virtualenv
-            $ cd /opt
-            $ mkdir myvirtual
-            $ cd myvirtual
-            $ virtualenv -p /usr/bin/python3.5 testenv
-            $ source bin/activate
-            $ pip install -r /home/adrenalin-login/requirement.txt
+  
+        $ pip install virtualenv
+        $ cd /opt
+        $ mkdir myvirtual
+        $ cd myvirtual
+        $ virtualenv -p /usr/bin/python3.5 testenv
+        $ source bin/activate
+        $ pip install -r /home/adrenalin-login/requirement.txt
     
 ##### 3. Set credintials in script file
   To create hased equivalent of your credintials open terminal and execute following commands.
