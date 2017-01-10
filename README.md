@@ -20,7 +20,7 @@ We assume that you have installed pip using `sudo apt-get install python-pip` co
         $ mkdir myvirtual
         $ cd myvirtual
         $ virtualenv -p /usr/bin/python3.5 testenv
-        $ source bin/activate
+        $ source testenv/bin/activate
         $ pip install -r /home/adrenalin-login/requirement.txt
     
 ##### 3. Set credintials in script file
