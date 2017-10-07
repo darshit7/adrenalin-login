@@ -62,7 +62,6 @@ I whould appriciate if some make it avaiable for windows and mac system.
 
 # Authors
 - Darshit Patoliya
-See also the list of contributors who participated in this project.
 
 # License
 This project is licensed unser the MIT License- see the [LICENSE.md](https://github.com/darshit7/adrenalin-login/blob/master/LICENSE) file for details
